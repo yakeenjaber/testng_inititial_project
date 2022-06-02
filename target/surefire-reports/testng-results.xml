@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="150417" started-at="2022-06-01T23:38:20 CDT" finished-at="2022-06-01T23:40:51 CDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="150417" started-at="2022-06-01T23:38:20 CDT" finished-at="2022-06-01T23:40:51 CDT">
+      <class name="scripts.TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="2696" started-at="2022-06-01T23:38:20 CDT" finished-at="2022-06-01T23:38:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCarsHeading()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testCarsHeading" duration-ms="6529" started-at="2022-06-01T23:38:23 CDT" finished-at="2022-06-01T23:38:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarsHeading -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4484" started-at="2022-06-01T23:38:30 CDT" finished-at="2022-06-01T23:38:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1390" started-at="2022-06-01T23:38:34 CDT" finished-at="2022-06-01T23:38:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCarsParagraph()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testCarsParagraph" duration-ms="6218" started-at="2022-06-01T23:38:36 CDT" finished-at="2022-06-01T23:38:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarsParagraph -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4936" started-at="2022-06-01T23:38:42 CDT" finished-at="2022-06-01T23:38:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1404" started-at="2022-06-01T23:38:47 CDT" finished-at="2022-06-01T23:38:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testEmailInputAndLabel()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testEmailInputAndLabel" duration-ms="5307" started-at="2022-06-01T23:38:48 CDT" finished-at="2022-06-01T23:38:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailInputAndLabel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4605" started-at="2022-06-01T23:38:53 CDT" finished-at="2022-06-01T23:38:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1326" started-at="2022-06-01T23:38:58 CDT" finished-at="2022-06-01T23:38:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testForgotPassword()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testForgotPassword" duration-ms="5656" started-at="2022-06-01T23:38:59 CDT" finished-at="2022-06-01T23:39:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPassword -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4346" started-at="2022-06-01T23:39:05 CDT" finished-at="2022-06-01T23:39:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1398" started-at="2022-06-01T23:39:09 CDT" finished-at="2022-06-01T23:39:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testPasswordInputAndLabel()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testPasswordInputAndLabel" duration-ms="6016" started-at="2022-06-01T23:39:11 CDT" finished-at="2022-06-01T23:39:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasswordInputAndLabel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="5087" started-at="2022-06-01T23:39:17 CDT" finished-at="2022-06-01T23:39:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1236" started-at="2022-06-01T23:39:22 CDT" finished-at="2022-06-01T23:39:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testPasswordMinChars()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testPasswordMinChars" duration-ms="4804" started-at="2022-06-01T23:39:23 CDT" finished-at="2022-06-01T23:39:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasswordMinChars -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4293" started-at="2022-06-01T23:39:28 CDT" finished-at="2022-06-01T23:39:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1251" started-at="2022-06-01T23:39:32 CDT" finished-at="2022-06-01T23:39:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testPrivacyStatementText()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testPrivacyStatementText" duration-ms="4616" started-at="2022-06-01T23:39:33 CDT" finished-at="2022-06-01T23:39:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrivacyStatementText -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4387" started-at="2022-06-01T23:39:38 CDT" finished-at="2022-06-01T23:39:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="setup" is-config="true" duration-ms="1245" started-at="2022-06-01T23:39:42 CDT" finished-at="2022-06-01T23:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSignInButton()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="testSignInButton" duration-ms="5041" started-at="2022-06-01T23:39:44 CDT" finished-at="2022-06-01T23:39:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInButton -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@5f2108b5]" name="teardown" is-config="true" duration-ms="4866" started-at="2022-06-01T23:39:49 CDT" finished-at="2022-06-01T23:39:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase1 -->
+      <class name="scripts.TestCase2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="setup" is-config="true" duration-ms="1263" started-at="2022-06-01T23:39:54 CDT" finished-at="2022-06-01T23:39:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testConnectSocialHeader()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="testConnectSocialHeader" duration-ms="5167" started-at="2022-06-01T23:39:55 CDT" finished-at="2022-06-01T23:40:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConnectSocialHeader -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="teardown" is-config="true" duration-ms="4813" started-at="2022-06-01T23:40:00 CDT" finished-at="2022-06-01T23:40:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="setup" is-config="true" duration-ms="1248" started-at="2022-06-01T23:40:05 CDT" finished-at="2022-06-01T23:40:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSignInApple()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="testSignInApple" duration-ms="4534" started-at="2022-06-01T23:40:06 CDT" finished-at="2022-06-01T23:40:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInApple -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="teardown" is-config="true" duration-ms="4355" started-at="2022-06-01T23:40:11 CDT" finished-at="2022-06-01T23:40:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="setup" is-config="true" duration-ms="1251" started-at="2022-06-01T23:40:15 CDT" finished-at="2022-06-01T23:40:16 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSignInFacebook()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="testSignInFacebook" duration-ms="4981" started-at="2022-06-01T23:40:16 CDT" finished-at="2022-06-01T23:40:21 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInFacebook -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="teardown" is-config="true" duration-ms="4959" started-at="2022-06-01T23:40:21 CDT" finished-at="2022-06-01T23:40:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="setup" is-config="true" duration-ms="1259" started-at="2022-06-01T23:40:26 CDT" finished-at="2022-06-01T23:40:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSignInGoogle()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="testSignInGoogle" duration-ms="4849" started-at="2022-06-01T23:40:27 CDT" finished-at="2022-06-01T23:40:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInGoogle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase2@31a5c39e]" name="teardown" is-config="true" duration-ms="5007" started-at="2022-06-01T23:40:32 CDT" finished-at="2022-06-01T23:40:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase2 -->
+      <class name="scripts.TestCase3">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase3@3f49dace]" name="setup" is-config="true" duration-ms="1655" started-at="2022-06-01T23:40:37 CDT" finished-at="2022-06-01T23:40:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testInvalidCredentials()[pri:0, instance:scripts.TestCase3@3f49dace]" name="testInvalidCredentials" duration-ms="7217" started-at="2022-06-01T23:40:39 CDT" finished-at="2022-06-01T23:40:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidCredentials -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase3@3f49dace]" name="teardown" is-config="true" duration-ms="4655" started-at="2022-06-01T23:40:46 CDT" finished-at="2022-06-01T23:40:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase3 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
